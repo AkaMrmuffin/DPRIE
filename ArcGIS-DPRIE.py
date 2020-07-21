@@ -8,7 +8,7 @@ import pandas as pd
 
 
 # import DPRIE functions
-from DPRIE_funcs import *
+from ArcGIS_DPRIE_funcs import *
 
 ##################################################### Workflow ######################################################
 
